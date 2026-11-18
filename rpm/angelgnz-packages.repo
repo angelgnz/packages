@@ -1,5 +1,5 @@
 [angelgnz-packages]
-name=angelgnz Packages
+name=angelgnz // pkg
 baseurl=https://angelgnz.github.io/packages/rpm
 enabled=1
 gpgcheck=1
