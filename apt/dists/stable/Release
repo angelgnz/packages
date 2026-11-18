@@ -1,0 +1,24 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Wed, 18 Nov 2026 19:44:38 +0000
+Description: Central signed APT repository for angelgnz Linux packages
+Label: angelgnz Packages
+Origin: angelgnz
+Suite: stable
+MD5Sum:
+ 88bf12f34c1081f2921b1798b9b4768a              220 Release
+ f5baae55a522c456978b61242d95b56a              554 main/binary-amd64/Packages
+ 2e79c2f8b1e40e5c58134bea7aeee165              415 main/binary-amd64/Packages.gz
+SHA1:
+ 126dcfa106f5f534b09ed7a86dfe23f93161effd              220 Release
+ be06fd396d653cef52ec4af566c634e33eb67758              554 main/binary-amd64/Packages
+ ae8a0e5bb965111c526431fc1bab569670f224c1              415 main/binary-amd64/Packages.gz
+SHA256:
+ 9f8c580702f745637cb694fe31b7b41e80266b207d08eb225f638855d3aba2c9              220 Release
+ 2d292414ebe6b9a5aee10b57b928773f246fa71bebfa6d86cdf52118ad05e29e              554 main/binary-amd64/Packages
+ 72e30bdedfc35292147df81b0246cadcc6d11cc7f8b86610247519bfa18a56f8              415 main/binary-amd64/Packages.gz
+SHA512:
+ 1bc7f643d20fe14df0fe6006c0e563fa9110e7cbbd9cb87279bde7e83da7f034c7641c3f9a6f8406800111f0e4d690f6cb7334fd61fc61ec3f34e8bc0753a3c4              220 Release
+ d785f8528282f26c0d02ad28ab10b0f0d71364a52cdb4e0dba448c09b07c1213ade83928f60f534160b62d1fe296dd88d4d44342f501919f579ab1ace99aa96b              554 main/binary-amd64/Packages
+ e8456e2d1bbeb31942c0b1c543857af11f0fd376f602bd4873a1f0e8ff559a46bac33bef4960333e76de01dc60280c3adf9c45470bfff4cc0249162c32dda56f              415 main/binary-amd64/Packages.gz
