@@ -1,24 +1,24 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Thu, 19 Nov 2026 01:10:56 +0000
+Date: Fri, 20 Nov 2026 20:36:06 +0000
 Description: Central signed APT repository for angelgnz Linux packages
 Label: angelgnz // pkg
 Origin: angelgnz
 Suite: stable
 MD5Sum:
- b676ca9fbb5d70d126f2a6ab3f7e6b5f              218 Release
- 4ed78304be39e905a3ccc0d23546586d              554 main/binary-amd64/Packages
- 244adff139e0e2e2d21acda229bfeb61              415 main/binary-amd64/Packages.gz
+ 700ca3917f69bc41c02708290de11e3b              218 Release
+ 81894c1dfd9fc8ce0f66f2e25b5cdd2e              554 main/binary-amd64/Packages
+ bb75c1301619f3a81a02864ccb2d844b              414 main/binary-amd64/Packages.gz
 SHA1:
- 9e54181106da105d060680a77975e03c713f7457              218 Release
- 3fee76507d0b480c54c8b9bf8c485656a84bb850              554 main/binary-amd64/Packages
- 8234ac0bf36e9a102315dc34ccb84e29ad609200              415 main/binary-amd64/Packages.gz
+ 3b2a0aeeaf28de424d3dccb3eb870532e46c9ee6              218 Release
+ e2a097287b34e49ab495ea8632b36f8628028a23              554 main/binary-amd64/Packages
+ aa0b248107cb4b428934053c459a067d37d4b0a8              414 main/binary-amd64/Packages.gz
 SHA256:
- fa2dfa3ce3ac89f231470dfcd2bdcc3b310032d2dc31f2a341842b4e356e3900              218 Release
- 9d2438f3f83decaf227d4c86c788caa4e4e31dc4391bd34ebe7324b0b271f8e2              554 main/binary-amd64/Packages
- 358c09705092ef66e7ded8a4653033716d0cefe88b83f72be577d04439321583              415 main/binary-amd64/Packages.gz
+ 03a8b443f8729514864c38e07bc0454921c248a26c180b725fe3f8471aa74a1a              218 Release
+ a8a2721d84a58e07fb766872e0fafc1539a6fc28f9e50338c190a779c9c90e91              554 main/binary-amd64/Packages
+ 8f30ec488e626d808f6ac90e3c0ca502ca876041f53338fa1db07e7dd99899fe              414 main/binary-amd64/Packages.gz
 SHA512:
- 3ebc5f08b9c9c17fa2ef2d6dc0ccc68e34c6ba0821683d9a28d62f0e89655c5d653c12e203d143798487fdb0c2927561639c4313b58a085a7cb37cf364e9910b              218 Release
- 3976da8db57d2a50d9c2c2c3c450601ef3fcf779ae9d5195e7c87f7a61880ef6ba76821f0d329d1a58d9f3aeb53df32c4e97b83915a9c790f904ce56f19f8920              554 main/binary-amd64/Packages
- 3842f614d891eb46cd3390f52ccf85d9636934f2d39aa3a1f96c2390ebee5e13adccabb0cd47809c18883fc0003097636eccefc554902ccbb5c94ac5ae610b28              415 main/binary-amd64/Packages.gz
+ 83251220bf1697d3fae608a84210fe843eb187a259604ade931bcc9eeb31e9694d50427ace944ac22e5cf99c54e4bc95919901f020c2b20d8be54b4d879bb8aa              218 Release
+ b8bb319466d4a56174f7caededed8c1632536a708f1b06b1e8575f812f25dc6e6fe25cfcf6aaa1f4dd6c399da267c202ea6dd90751aa85fd77bf89536efb8a10              554 main/binary-amd64/Packages
+ 8d539bc999092006384a912f8d3844c739891deb2a7b6287712056286f64ebad1564b9ffd12a5a858f7bad752b69d0508517e459fba1e053ea9247be027afbc3              414 main/binary-amd64/Packages.gz
