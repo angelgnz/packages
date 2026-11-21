@@ -14,3 +14,24 @@ Priority: optional
 Homepage: https://github.com/angelgnz/nxctl
 Description: Open-source Linux alternative to NZXT CAM over liquidctl (CLI, TUI, daemon, and GUI)
 
+Package: x56-hotas-deck
+Version: 0.2.3-1
+Architecture: amd64
+Maintainer: Angel Gonzalez <https://github.com/angelgnz>
+Installed-Size: 56500
+Depends: libc6 (>= 2.34), libc6 (>= 2.43), libudev1, libudev1 (>= 183), libxkbcommon0
+Filename: pool/main/x/x56-hotas-deck/x56-hotas-deck_0.2.3-1_amd64.deb
+Size: 12461984
+MD5sum: e2c8f9099548e003c2efd7175e582269
+SHA1: 3cecab0abd9c5d9c5a5ae37c5c5b77fee21ab2e1
+SHA256: 34458c9be22668f7d1b53513a233b61f9cc2a27d3314bb58db18095947e579c5
+Section: utils
+Priority: optional
+Homepage: https://github.com/angelgnz/x56-hotas-deck
+Description: [generated from Rust crate x56-cli]
+ X56 HOTAS Deck - Configurador y controlador en espacio de usuario para Saitek /
+ Logitech G X56 HOTAS.
+ Incluye CLI (x56 / x56-cli) y GUI táctica Avionics Vector (x56-deck /
+ x56-gui), con soporte udev sin root,
+ inyección de pulsaciones evdev/uinput y curvas de ejes Hall 16-bit.
+
