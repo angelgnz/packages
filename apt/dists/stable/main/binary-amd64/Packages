@@ -15,16 +15,16 @@ Homepage: https://github.com/angelgnz/nxctl
 Description: Open-source Linux alternative to NZXT CAM over liquidctl (CLI, TUI, daemon, and GUI)
 
 Package: x56-hotas-deck
-Version: 0.2.4-1
+Version: 0.2.5-1
 Architecture: amd64
 Maintainer: Angel Gonzalez <https://github.com/angelgnz>
-Installed-Size: 56737
+Installed-Size: 56628
 Depends: libc6 (>= 2.34), libc6 (>= 2.43), libudev1, libudev1 (>= 183), libxkbcommon0
-Filename: pool/main/x/x56-hotas-deck/x56-hotas-deck_0.2.4-1_amd64.deb
-Size: 12556780
-MD5sum: d9f21580a2461530a333975e4b134de1
-SHA1: abf853c2e5744ab24fc69171430deaf78b4dbe09
-SHA256: 8420c66e0a9e34f7384261e4e9a0a9efa6edd81769e23f8332a346eceda569a1
+Filename: pool/main/x/x56-hotas-deck/x56-hotas-deck_0.2.5-1_amd64.deb
+Size: 12496912
+MD5sum: f8f2b5541b7429f3a29d128ab4c26fdb
+SHA1: cd6a5e3332f48d2e6d6554761506ff2dc7d050a2
+SHA256: 0fa06a1c31b2a1f4412d221f7bdbbd0c70471cea62e3992b9d8a2d2cee72c80f
 Section: utils
 Priority: optional
 Homepage: https://github.com/angelgnz/x56-hotas-deck
